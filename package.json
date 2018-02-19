@@ -1,0 +1,16 @@
+{
+    "name": "@ofcs/select2",
+    "version": "3.4.1",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+    "main": "select2.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brainbits/select2.git"
+    },
+    "publishConfig": {
+        "registry": "http://npm.int-vm-rancher-host2.brainbits-gmbh.local"
+    }
+}
